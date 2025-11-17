@@ -11,28 +11,22 @@
 <br>
 
    ```
-    pip install reportlab
+    conda install -c conda-forge reportlab
    ```
     
 <br>
 
-  ![reportlab](https://github.com/user-attachments/assets/5d19e6fd-e8b2-41dd-952e-5c87629bd74e)
+  ![spyderrrr](https://github.com/user-attachments/assets/ea1add61-29fc-44d9-9c61-a2087fb9bc15)
+
   
 <br>
 
+<br>
+- Inicia nuestro software ahora y empieza a disfrutar al instante.
+<br>
+<br>
 
-  ```
-     pip install openpyxl
-  ```
-  <br>
-  
-![openn](https://github.com/user-attachments/assets/502cd401-2042-474a-a5e6-be5090a145d1)
-
-<br>
-- ¡Dale al Play! Nuestro software ya está listo para que disfrutes.
-<br>
-<br>
-<img width="1169" height="391" alt="sistemaas" src="https://github.com/user-attachments/assets/f9cdf5c6-a635-4af6-85c1-57b3fb73e358" />
+<img width="990" height="331" alt="spyderr" src="https://github.com/user-attachments/assets/e97a8bf5-6777-4153-84ae-a0a1bf502987" />
 
 <br>
 <br>
