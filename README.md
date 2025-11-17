@@ -65,8 +65,20 @@
 <br>
 <img width="660" height="391" alt="sistemaas" src="https://github.com/user-attachments/assets/f9cdf5c6-a635-4af6-85c1-57b3fb73e358" />
 
+<br>
+<br>
 
-  
+# Video promocional
+
+
+<h1 align="center">  
+<a href="https://youtu.be/ugMnmFwYf0Q">
+  <img src="https://github.com/user-attachments/assets/e9ae69e9-b451-4c41-9fd8-d33d570f92ff" width="350" height="550">
+</a>
+</h1>
+
+
+
 
 
 
