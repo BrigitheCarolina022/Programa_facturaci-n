@@ -12,6 +12,16 @@
 > [!IMPORTANT]
 > Para ejecutar nuestro programa sin problema sigue estos pasos dependiendo tu IDE:
 
+<br>
+<br>
+
+# Documentación:
+> [!NOTE]
+[Sistema de Facturación para Empresa de Cerámicas Cerarte.pdf](https://github.com/user-attachments/files/23573570/Sistema.de.Facturacion.para.Empresa.de.Ceramicas.Cerarte.pdf)
+
+<br>
+<br>
+
 # Spyder
 1. instala las siguientes librerias en la terminal propia de Spyder:
 <br>
@@ -67,6 +77,8 @@
 
 <br>
 <br>
+
+
 
 # Video promocional
 
