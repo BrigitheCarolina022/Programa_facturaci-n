@@ -70,6 +70,7 @@
 
 # Video promocional
 
+-🚨 ¡Atención! Deja de perder tiempo y dinero. En pocos minutos, este video te revelará la única razón por la que necesitas este programa de facturación YA. Verás cómo esta herramienta cambiará tu día a día y liberará tu tiempo de forma espectacular
 
 <h1 align="center">  
 <a href="https://youtu.be/ugMnmFwYf0Q">
