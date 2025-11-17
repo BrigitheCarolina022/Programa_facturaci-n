@@ -4,6 +4,12 @@
 <br>
 
 > [!IMPORTANT]
+> Es importante que coloque este programa en su propia carpeta. De esta forma, los archivos PDF y Excel generados se guardarán ordenadamente en el mismo lugar.
+
+<br>
+<br>
+
+> [!IMPORTANT]
 > Para ejecutar nuestro programa sin problema sigue estos pasos dependiendo tu IDE:
 
 # Spyder
