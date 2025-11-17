@@ -26,7 +26,7 @@
 <br>
 <br>
 
-<img width="990" height="331" alt="spyderr" src="https://github.com/user-attachments/assets/e97a8bf5-6777-4153-84ae-a0a1bf502987" />
+<img width="690" height="331" alt="spyderr" src="https://github.com/user-attachments/assets/e97a8bf5-6777-4153-84ae-a0a1bf502987" />
 
 <br>
 <br>
@@ -57,7 +57,7 @@
 - ¡Dale al Play! Nuestro software ya está listo para que disfrutes.
 <br>
 <br>
-<img width="1169" height="391" alt="sistemaas" src="https://github.com/user-attachments/assets/f9cdf5c6-a635-4af6-85c1-57b3fb73e358" />
+<img width="660" height="391" alt="sistemaas" src="https://github.com/user-attachments/assets/f9cdf5c6-a635-4af6-85c1-57b3fb73e358" />
 
 
   
